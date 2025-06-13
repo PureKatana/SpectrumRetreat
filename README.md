@@ -7,7 +7,8 @@ This is a simple project using a custom engine made with Modern OpenGL and C++. 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>C++</b> 
+- <b>C++</b>
+- <b>Custom Math Library</b> 
 
 <h2>Engine Used </h2>
 
