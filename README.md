@@ -30,12 +30,13 @@ This is a simple project using a custom engine made with Modern OpenGL and C++. 
 - Color-Swapping Mechanic: Implemented the core "phone" feature to swap ColorState with interactable objects (Doors, Buttons, Moving Objects).
 - Animated Objects: Handled MOVING_OBJECT interpolation for their transformations.
 
-- <b><h3>Resource Management:</h3></b> Implemented a ResourceManager to handle loading and managing textures, shaders, and meshes.
+- <b><h3>Resource Management:</h3></b> Implemented a ResourceManager to handle loading and managing textures, shaders, and meshes (parsing).
 - <b><h3>Lighting System:</h3></b> Incorporated directional, point, and spot lights into the scene.
 - <b><h3>User Interface (UI):</h3></b> Developed UI elements such as a phone display, a cursor, and an in-game menu including restart functionality.
 - <b><h3>Audio System:</h3></b> Managed sound playback and stopping using the Audio_Manager (singleton pattern).
 - <b><h3>Game Flow:</h3></b> Included game state management for winning and resetting the game.
 
 <h2>Gameplay</h2>
+![download](https://github.com/user-attachments/assets/fd1be7f9-25a6-4f25-aa54-6b8b94086bb4)
 
 
