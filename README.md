@@ -37,6 +37,7 @@ This is a simple project using a custom engine made with Modern OpenGL and C++. 
 - <b><h3>Game Flow:</h3></b> Included game state management for winning and resetting the game.
 
 <h2>Gameplay</h2>
-![download](https://github.com/user-attachments/assets/fd1be7f9-25a6-4f25-aa54-6b8b94086bb4)
+<br/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXYxeTFyaXhvZHJub29pNHhjMWlpMW45NjJpMXRzaWI3dXdwcXM1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2tmJtlgiUQcDLh03Ys/giphy.gif" height="80%" width="80%" alt="Gameplay"/>
 
 
